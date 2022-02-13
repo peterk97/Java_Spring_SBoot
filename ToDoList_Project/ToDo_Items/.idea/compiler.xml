@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Setup_Dispatcher_Servlet" />
+        <module name="Simple_Service_Challenge" />
+        <module name="Model_and_Model_Attributes" />
+        <module name="Request_Parameters" />
+        <module name="View_and_ViewResolver" />
+        <module name="Setup_Maven_War_plugin" />
+        <module name="Setup_Maven_War_and_Cargo_plugins" />
+        <module name="Simple_Controller" />
+        <module name="todo-list" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+/home/peter/Documents/Java/UDEMY/Spring/Section8_Spring_Boot_Intro/Thymeleaf_Decoupled_Template_logic/web/src/main/java/academy/learnprogramming/controller/GameController.java
+/home/peter/Documents/Java/UDEMY/Spring/Section8_Spring_Boot_Intro/Thymeleaf_Decoupled_Template_logic/web/src/main/java/academy/learnprogramming/util/AttributeNames.java
+/home/peter/Documents/Java/UDEMY/Spring/Section8_Spring_Boot_Intro/Thymeleaf_Decoupled_Template_logic/web/src/main/java/academy/learnprogramming/util/GameMappings.java
+/home/peter/Documents/Java/UDEMY/Spring/Section8_Spring_Boot_Intro/Thymeleaf_Decoupled_Template_logic/web/src/main/java/academy/learnprogramming/util/ViewNames.java
+/home/peter/Documents/Java/UDEMY/Spring/Section8_Spring_Boot_Intro/Thymeleaf_Decoupled_Template_logic/web/src/main/java/academy/learnprogramming/util/thymeleaf/DecoupledLogicSetup.java
+/home/peter/Documents/Java/UDEMY/Spring/Section8_Spring_Boot_Intro/Thymeleaf_Decoupled_Template_logic/web/src/main/java/academy/learnprogramming/service/GameServiceImpl.java
+/home/peter/Documents/Java/UDEMY/Spring/Section8_Spring_Boot_Intro/Thymeleaf_Decoupled_Template_logic/web/src/main/java/academy/learnprogramming/WebMain.java
+/home/peter/Documents/Java/UDEMY/Spring/Section8_Spring_Boot_Intro/Thymeleaf_Decoupled_Template_logic/web/src/main/java/academy/learnprogramming/config/WebConfig.java
+/home/peter/Documents/Java/UDEMY/Spring/Section8_Spring_Boot_Intro/Thymeleaf_Decoupled_Template_logic/web/src/main/java/academy/learnprogramming/service/GameService.java

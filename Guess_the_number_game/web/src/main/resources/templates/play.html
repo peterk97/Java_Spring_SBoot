@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head id="headId">
+    <meta charset="UTF-8">
+    <title>Title content</title>
+</head>
+<body>
+    <div align="center">
+        <h1 id="game-title">Guess the Number Game</h1>
+<!-- We can use preprocessing for the attribute names so if names are changed in controller it will not cause errors.-->
+        <h3 id="main-message">
+            Main Message Content
+        </h3>
+
+        <h3 id="result-message">
+            Result Message Content
+        </h3>
+
+<!-- adding a form to the game to get an input from the user-->
+              <!--The play is hardcoded but that play is the mapping in controller, so we use constant from mappings class,
+              and we are going to use the th:action attribute to change it, and leave it in there (for testing purposes)
+               @{} is a special syntax in thymeleaf for URL -->
+        <form id="game-form" action="play" method="post">
+            <label id="enter-guess" for="guess">Enter your guess</label>
+            <input id="guess" type="number" name="guess">
+            <input id="submit" type="submit" value="Submit">
+        </form>
+        <footer id="footer">
+            <p>Created by Goes here</p>
+        </footer>
+    </div>
+</body>
+</html>

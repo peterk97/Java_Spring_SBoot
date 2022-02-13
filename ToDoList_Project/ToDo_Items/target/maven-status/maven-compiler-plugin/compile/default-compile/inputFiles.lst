@@ -1,0 +1,13 @@
+/home/peter/Documents/Java/UDEMY/Spring/Section_7_Spring_MVC/ToDoList_Project/ToDo_Items/src/main/java/academy/learnprogramming/service/DemoService.java
+/home/peter/Documents/Java/UDEMY/Spring/Section_7_Spring_MVC/ToDoList_Project/ToDo_Items/src/main/java/academy/learnprogramming/service/TodoItemService.java
+/home/peter/Documents/Java/UDEMY/Spring/Section_7_Spring_MVC/ToDoList_Project/ToDo_Items/src/main/java/academy/learnprogramming/util/AttributeNames.java
+/home/peter/Documents/Java/UDEMY/Spring/Section_7_Spring_MVC/ToDoList_Project/ToDo_Items/src/main/java/academy/learnprogramming/util/ViewNames.java
+/home/peter/Documents/Java/UDEMY/Spring/Section_7_Spring_MVC/ToDoList_Project/ToDo_Items/src/main/java/academy/learnprogramming/service/DemoServiceImpl.java
+/home/peter/Documents/Java/UDEMY/Spring/Section_7_Spring_MVC/ToDoList_Project/ToDo_Items/src/main/java/academy/learnprogramming/service/TodoItemServiceImpl.java
+/home/peter/Documents/Java/UDEMY/Spring/Section_7_Spring_MVC/ToDoList_Project/ToDo_Items/src/main/java/academy/learnprogramming/controller/DemoController.java
+/home/peter/Documents/Java/UDEMY/Spring/Section_7_Spring_MVC/ToDoList_Project/ToDo_Items/src/main/java/academy/learnprogramming/controller/TodoItemController.java
+/home/peter/Documents/Java/UDEMY/Spring/Section_7_Spring_MVC/ToDoList_Project/ToDo_Items/src/main/java/academy/learnprogramming/config/WebConfig.java
+/home/peter/Documents/Java/UDEMY/Spring/Section_7_Spring_MVC/ToDoList_Project/ToDo_Items/src/main/java/academy/learnprogramming/util/Mappings.java
+/home/peter/Documents/Java/UDEMY/Spring/Section_7_Spring_MVC/ToDoList_Project/ToDo_Items/src/main/java/academy/learnprogramming/model/TodoData.java
+/home/peter/Documents/Java/UDEMY/Spring/Section_7_Spring_MVC/ToDoList_Project/ToDo_Items/src/main/java/academy/learnprogramming/model/TodoItem.java
+/home/peter/Documents/Java/UDEMY/Spring/Section_7_Spring_MVC/ToDoList_Project/ToDo_Items/src/main/java/academy/learnprogramming/config/WebAppInitializer.java
