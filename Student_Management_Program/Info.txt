@@ -1,0 +1,1 @@
+This is a student management program created by Java, Spring Boot, and Thymeleaf. The application uses a local database so if you would like to see how it works you need to go into the application.properties file and add a dayabase. Also the application is running on on 
